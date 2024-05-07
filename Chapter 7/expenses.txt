@@ -1,0 +1,12 @@
+Rent
+6
+Gas
+5
+Food
+4
+Clothing
+3
+Car
+2
+Misc
+1
